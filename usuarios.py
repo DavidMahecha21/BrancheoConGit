@@ -1,0 +1,1 @@
+cuantos = int(input("Ingrese la cantidad de usuarios que desea registrar: "))
